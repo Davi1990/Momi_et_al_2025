@@ -103,7 +103,7 @@ This repository contains Jupyter notebooks that replicate the code and results p
 - Jansen, B. H. & Rit, V. G. Electroencephalogram and visual evoked potential generation in a mathematical model of coupled cortical columns. Biol. Cybern. 73, 357–366 (1995).
 - Kingma, D. P. & Ba, J. Adam: A Method for Stochastic Optimization. arXiv preprint arXiv:1412.6980 (2017).
 - Momi, D., Wang, Z. & Griffiths, J. D. TMS-evoked responses are driven by recurrent large-scale network dynamics. eLife 12, e83232 (2023).
-- Momi, D., Wang, Z., Parmigiani, S., Mikulan, E., Bastiaens, S. P., Oveisi, M. P., Kadak, K., Gaglioti, G., Waters, A. C., Hill, S., Pigorini, A., Keller, C. J., & Griffiths, J. D. Stimulation mapping and whole-brain modeling reveal gradients of excitability and recurrence in cortical networks. Nat. Commun. 16, 3222 (2025). https://doi.org/10.1038/s41467-025-58187-6
+- Momi, D., Wang, Z., Parmigiani, S., Mikulan, E., Bastiaens, S. P., Oveisi, M. P., Kadak, K., Gaglioti, G., Waters, A. C., Hill, S., Pigorini, A., Keller, C. J., & Griffiths, J. D. Stimulation mapping and whole-brain modeling reveal gradients of excitability and recurrence in cortical networks. Nat. Commun. 16, 3222 (2025). 
 - Schaefer, A. et al. Local-Global Parcellation of the Human Cerebral Cortex from Intrinsic Functional Connectivity MRI. Cereb. Cortex 28, 3095–3114 (2018).
 - Strafella, R. et al. Identifying Neurophysiological Markers of Intermittent Theta Burst Stimulation in Treatment-Resistant Depression Using Transcranial Magnetic Stimulation–Electroencephalography. Biol. Psychiatry 94, 454–465 (2023).
 - Van Essen, D. C. et al. The Human Connectome Project: a data acquisition perspective. NeuroImage 62, 2222–2231 (2012).
