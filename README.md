@@ -54,7 +54,7 @@ This study combines longitudinal TMS-EEG measurements with whole-brain computati
 
 (A) Single-pulse TMS-EEG evoked responses and HRSD-17 depression scale were recorded before and after 30 days' iTBS therapy in 90 patients with treatment-resistant depression. (B) Anatomical connectivity was derived from Human Connectome Project diffusion-weighted MRI tractography data. (C) The Jansen-Rit neural mass model was embedded in 200 cortical regions for simulating TMS-evoked responses. (D) Lead field matrices projected neural activity to EEG channel space. (E) Model parameters were optimized using ADAM algorithm with autodiff-computed gradients. (F) Fitted models were analyzed to identify neurophysiological signatures of treatment response.
 
-![alt text]([https://github.com/Davi1990/Momi_et_al_2025/blob/main/img/Figure_1.png])
+![alt text](https://github.com/Davi1990/Momi_et_al_2025/blob/main/img/Figure_1.png)
 
 ## Data   
 
