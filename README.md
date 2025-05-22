@@ -50,13 +50,11 @@ bioRxiv (2025) - DOI: https://doi.org/10.1101/2025.04.23.648963
 
 This study combines longitudinal TMS-EEG measurements with whole-brain computational modeling to investigate the neurophysiological mechanisms underlying treatment response in treatment-resistant depression (TRD). Our integrated approach revealed two key findings: (1) successful iTBS treatment was characterized by specific reductions in low-frequency (3–10 Hz) oscillatory power, reflecting shifts in excitation-inhibition (E/I) balance toward greater inhibitory control, and (2) a pre-treatment brain state characterized by anti-phase dynamics between left DLPFC and subgenual anterior cingulate cortex (sgACC) predicted clinical outcomes.
 
-![alt text](https://github.com/YourUsername/TMS_Depression_2025/blob/main/img/Figure_1.png)
-
 ## Methodological workflow for TMS-EEG data analysis and connectome-based neurophysiological modeling
 
 (A) Single-pulse TMS-EEG evoked responses and HRSD-17 depression scale were recorded before and after 30 days' iTBS therapy in 90 patients with treatment-resistant depression. (B) Anatomical connectivity was derived from Human Connectome Project diffusion-weighted MRI tractography data. (C) The Jansen-Rit neural mass model was embedded in 200 cortical regions for simulating TMS-evoked responses. (D) Lead field matrices projected neural activity to EEG channel space. (E) Model parameters were optimized using ADAM algorithm with autodiff-computed gradients. (F) Fitted models were analyzed to identify neurophysiological signatures of treatment response.
 
-![alt text](https://github.com/YourUsername/TMS_Depression_2025/blob/main/img/Figure_5.png)
+![alt text](https://github.com/YourUsername/TMS_Depression_2025/blob/main/img/Figure_1.png)
 
 ## Data   
 
