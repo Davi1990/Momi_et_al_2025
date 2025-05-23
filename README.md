@@ -89,7 +89,7 @@ This repository contains Jupyter notebooks that replicate the code and results p
 
 | Notebook | Run | View | Description |
 | - | --- | ---- | ----------- |
-| Spectral_Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourUsername/TMS_Depression_2025/blob/main/code/Spectral_Analysis.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/YourUsername/TMS_Depression_2025/blob/main/code/Spectral_Analysis.ipynb?flush_cache=true) | This notebook replicates the time-frequency analysis of TMS-induced oscillatory power. |
+| Spectral_Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davi1990/Momi_et_al_2025/blob/main/code/Spectral_Analysis.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/Davi1990/Momi_et_al_2025/blob/main/code/Spectral_Analysis.ipynb?flush_cache=true) | This notebook replicates the time-frequency analysis of TMS-induced oscillatory power. |
 
 ## References
 
